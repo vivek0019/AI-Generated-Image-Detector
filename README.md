@@ -10,3 +10,13 @@ This project demonstrates an end-to-end AI application, including:
 * Explainable AI with GradCAM
 * Docker containerization
 * Ready for cloud deployment
+
+## ✨ Features
+
+* 🔍 Detects whether an uploaded image is **Real** or **AI Generated**
+* 🧠 Uses a fine-tuned **ResNet-18** deep learning model for inference
+* 🔥 Generates **GradCAM** heatmaps to visualize the regions influencing model predictions
+* ⚡ Automatic backend model loading (`best_model.pth`)
+* 🖥️ Interactive **Streamlit** web application
+* 📦 Dockerized for reproducible deployment across environments
+* ☁️ Ready for deployment on **Streamlit Community Cloud** or **AWS EC2**
